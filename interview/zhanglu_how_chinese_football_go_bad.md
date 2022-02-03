@@ -47,4 +47,4 @@
   - 效果：身体素质、心理素质都有提高
   - 三万七百个孩子，大约有十分之一会参加业余训练，增加国足后备力量
 
-  [1]: https://www.bilibili.com/video/BV1Bz411q7ZQ?spm_id_from=333.999.0.0
+  [1]: https://www.bilibili.com/video/BV1Bz411q7ZQ

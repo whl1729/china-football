@@ -60,11 +60,26 @@
 
 ## 参考资料
 
+### 政策文件
+
+- [中国足球改革发展总体方案](http://www.gov.cn/zhengce/content/2015-03/16/content_9537.htm)
+- [中国足协青少年训练大纲](https://www.thecfa.cn/thecfa/upload/20200908/20200908094439507.pdf)
+- [中国足协青少年训练大纲（2022版）](https://imageoss.thecfa.cn/upload/file/20220110/1641807074384824.pdf)
+- [中国足球协会2020年行动计划](https://imageoss.thecfa.cn/File/2017/03/24/1514562403.pdf)
+- [中国足球中长期发展规划（2016—2050年）](https://www.ndrc.gov.cn/fggz/fzzlgh/gjjzxgh/201705/t20170511_1196746.html?code=&state=123)
+
+### 文档
+
+- [揭露中国足球：里皮至少10次被整崩溃！国足还远没到谷底！](https://posts.careerengine.us/p/5ddfe0a6a75d260d60f888bf)
+- [我所经历的中国足球青训](https://www.zhihu.com/column/c_1191061538013040640)
+- [对比西班牙青训，我们到底差在哪？](https://zhuanlan.zhihu.com/p/82844438)
+
 ### 纪录片
 
-- 足球道路
+- [《足球道路》](https://v.youku.com/v_show/id_XMzY3MTgwODEwNA==.html)
 
-### 视频
+### 访谈
 
-- 张路相关视频
-- 范志毅相关视频
+- [《十问张路：中国足球，是怎么跑偏的》](https://www.bilibili.com/video/BV1Bz411q7ZQ)
+- [《球同存议：中国足球病根在哪？》](https://www.bilibili.com/video/BV1mi4y1d7Cx)
+- [《白岩松谈中国足球：让我收获了40多年真实的痛苦》](https://www.bilibili.com/video/BV17J41117ze)
